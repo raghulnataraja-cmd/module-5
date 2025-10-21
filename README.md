@@ -40,7 +40,8 @@ int main() {
 ```
 
 ## OUTPUT:
-	![alt text](<creenshot 2025-10-21 205346.jpg>)	       	
+	![alt text](<Screenshot 2025-10-21 205346.jpg>)
+      	
 
 
 ## RESULT:
